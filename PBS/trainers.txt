@@ -46,16 +46,16 @@ Pokemon = SPEAROW,16
 Pokemon = SENTRET,16
 #-------------------------------
 [CAMPER,Jeff,1]
-LoseText = You beat me again!
+LoseText = ...
 Pokemon = FEAROW,29
 Pokemon = FURRET,29
 #-------------------------------
 [PICNICKER,Susie]
-LoseText = Defeated! Oh my!
+LoseText = ...
 Pokemon = MEOWTH,18
 #-------------------------------
 [PICNICKER,Susie,1]
-LoseText = Defeated! Oh my!
+LoseText = ...
 Pokemon = PERSIAN,32
 #-------------------------------
 [HIKER,Ford]
@@ -77,7 +77,7 @@ Pokemon = PLUSLE,17
 Pokemon = MINUN,17
 #-------------------------------
 [COOLCOUPLE,Alice & Bob]
-LoseText = Our teamwork failed!
+LoseText = ...
 Pokemon = TURTWIG,19
 Pokemon = CHIMCHAR,19
 #-------------------------------
@@ -116,3 +116,8 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[DEVELOPER,Jhon Doe]
+LoseText = ...
+Pokemon = PIKACHU,10
+Pokemon = PIDGEY,10

@@ -399,3 +399,13 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[DEVELOPER]
+Name = Developer
+Gender = Male
+BaseMoney = 69
+#-------------------------------
+[DEVELOPER_F]
+Name = Entità mistica
+Gender = Female
+BaseMoney = 69
