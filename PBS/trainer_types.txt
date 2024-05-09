@@ -409,3 +409,43 @@ BaseMoney = 69
 Name = Entità mistica
 Gender = Female
 BaseMoney = 69
+#-------------------------------
+[T_3DARTIST]
+Name = 3d artist boh
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[T_3DARTIST_F]
+Name = 3D Artist boh f
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[DIGITALMEDIASPECIALIST]
+Name = Digital media specialist M
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[DIGITALMEDIASPECIALIST_F]
+Name = Digital media specialist F
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[CYBERSECURITYEXPERT]
+Name = Cyber security expert M
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[CYBERSECURITYEXPERT_F]
+Name = Cyber security expert F
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[DIGITALVIDEODESIGNER]
+Name = Digital video designer m
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[DIGITALVIDEODESIGNER_F]
+Name = Digital video designer F
+Gender = Female
+BaseMoney = 30

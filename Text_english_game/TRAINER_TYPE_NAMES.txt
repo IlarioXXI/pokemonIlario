@@ -1,0 +1,24 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_TYPE_NAMES]
+Developer
+Developer
+Entità mistica
+Entità mistica
+3d artist boh
+3d artist boh
+3D Artist boh f
+3D Artist boh f
+Digital media specialist M
+Digital media specialist M
+Digital media specialist F
+Digital media specialist F
+Cyber security expert M
+Cyber security expert M
+Cyber security expert F
+Cyber security expert F
+Digital video designer m
+Digital video designer m
+Digital video designer F
+Digital video designer F

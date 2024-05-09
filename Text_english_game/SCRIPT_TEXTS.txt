@@ -1,0 +1,150 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SCRIPT_TEXTS]
+Kanto Pokédex
+Kanto Pokédex
+Johto Pokédex
+Johto Pokédex
+My Game by:
+My Game by:
+Also involved were:
+Also involved were:
+Special thanks to:
+Special thanks to:
+Field '{1}' is not an integer.
+Field '{1}' is not an integer.
+Field '{1}' is not a positive integer or 0.
+Field '{1}' is not a positive integer or 0.
+Field '{1}' is not a positive integer.
+Field '{1}' is not a positive integer.
+Field '{1}' must be greater than 0.
+Field '{1}' must be greater than 0.
+Field '{1}' is not a hexadecimal number.
+Field '{1}' is not a hexadecimal number.
+Field '{1}' is not a number.
+Field '{1}' is not a number.
+Field '{1}' is not a Boolean value (true, false, 1, 0).
+Field '{1}' is not a Boolean value (true, false, 1, 0).
+Field '{1}' must contain only letters, digits, and<<n>>underscores and can't begin with a number.
+Field '{1}' must contain only letters, digits, and<<n>>underscores and can't begin with a number.
+'{1}' is not a defined type (type {2}, Weaknesses).
+'{1}' is not a defined type (type {2}, Weaknesses).
+'{1}' is not a defined type (type {2}, Resistances).
+'{1}' is not a defined type (type {2}, Resistances).
+'{1}' is not a defined type (type {2}, Immunities).
+'{1}' is not a defined type (type {2}, Immunities).
+{1} can only use {2} due to its Encore!
+{1} can only use {2} due to its Encore!
+{1} is completely immune to being copied!
+{1} is completely immune to being copied!
+{1} is completely immune to one-hit KO's!
+{1} is completely immune to one-hit KO's!
+#{msg}
+#{msg}
+{1} transformed into the {2}-type!
+{1} transformed into the {2}-type!
+{1} put on its {2}!
+{1} put on its {2}!
+{1} is weak!<<n>>Throw a Poké Ball now!
+{1} is weak!<<n>>Throw a Poké Ball now!
+But there is no room left in the PC!
+But there is no room left in the PC!
+#{@introText}
+#{@introText}
+{1}
+{1}
+{1} is completely immune to being put to sleep!
+{1} is completely immune to being put to sleep!
+{1} is completely immune to poisoning!
+{1} is completely immune to poisoning!
+{1} is completely immune to burns!
+{1} is completely immune to burns!
+{1} is completely immune to paralysis!
+{1} is completely immune to paralysis!
+{1} is completely immune to being frozen!
+{1} is completely immune to being frozen!
+{1} is completely immune to frostbite!
+{1} is completely immune to frostbite!
+{1} is completely immune to becoming drowsy!
+{1} is completely immune to becoming drowsy!
+{1} is completely immune to confusion!
+{1} is completely immune to confusion!
+{1} is completely immune to infatuation!
+{1} is completely immune to infatuation!
+{1} is completely immune to having its stats lowered!
+{1} is completely immune to having its stats lowered!
+{1} is completely immune to effects that may disable its moves!
+{1} is completely immune to effects that may disable its moves!
+Deluxe plugin settings...
+Deluxe plugin settings...
+Settings added by the Deluxe Battle Kit and other add-on plugins.
+Settings added by the Deluxe Battle Kit and other add-on plugins.
+Toggle Mega Evolution
+Toggle Mega Evolution
+Toggles the availability of Mega Evolution functionality.
+Toggles the availability of Mega Evolution functionality.
+Mega Evolution {1}.
+Mega Evolution {1}.
+{1} radiates with Mega energy!
+{1} radiates with Mega energy!
+{1}'s {2} radiates with Mega energy!
+{1}'s {2} radiates with Mega energy!
+#{param}
+#{param}
+{1}'s held {2} was removed!
+{1}'s held {2} was removed!
+{1} obtained {2} {3}!
+{1} obtained {2} {3}!
+{1}'s stat changes returned to normal!
+{1}'s stat changes returned to normal!
+{1}'s raised stats returned to normal!
+{1}'s raised stats returned to normal!
+{1}'s lowered stats returned to normal!
+{1}'s lowered stats returned to normal!
+The snow stopped.
+The snow stopped.
+The hailstorm ended.
+The hailstorm ended.
+The weather cleared.
+The weather cleared.
+The battlefield returned to normal.
+The battlefield returned to normal.
+{1} emited a powerful magnetic pulse!
+{1} emited a powerful magnetic pulse!
+Your Poké Balls short-circuited!<<n>>They cannot be used this battle!
+Your Poké Balls short-circuited!<<n>>They cannot be used this battle!
+{1} possessed a new appliance!
+{1} possessed a new appliance!
+{1} equipped a {2} it found in the appliance!
+{1} equipped a {2} it found in the appliance!
+{1} emited an electrical pulse out of desperation!
+{1} emited an electrical pulse out of desperation!
+The cave ceiling begins to crumble down all around you!
+The cave ceiling begins to crumble down all around you!
+I am not letting you escape!
+I am not letting you escape!
+I don't care if this whole cave collapses down on the both of us...haha!
+I don't care if this whole cave collapses down on the both of us...haha!
+Defeat your opponent before time runs out!
+Defeat your opponent before time runs out!
+The cave continues to collapse all around you!
+The cave continues to collapse all around you!
+{1} was struck on the head by a falling rock!
+{1} was struck on the head by a falling rock!
+You're running out of time!
+You're running out of time!
+You need to escape immediately!
+You need to escape immediately!
+You failed to defeat your opponent in time!
+You failed to defeat your opponent in time!
+You were forced to flee the battle!
+You were forced to flee the battle!
+My {1} will never give up!
+My {1} will never give up!
+{1} is standing its ground!
+{1} is standing its ground!
+Haha...you'll never make it out alive!
+Haha...you'll never make it out alive!
+{1}'s Mega Evolution faded!<<n>>It may now be captured!
+{1}'s Mega Evolution faded!<<n>>It may now be captured!
