@@ -2,7 +2,7 @@
 # translate every second line of this file.
 #-------------------------------
 [ABILITY_DESCRIPTIONS]
-The stench may cause the target to flinch.
+The stench may cause the target to flinch
 The stench may cause the target to flinch.
 The Pokémon makes it rain if it appears in battle.
 The Pokémon makes it rain if it appears in battle.
