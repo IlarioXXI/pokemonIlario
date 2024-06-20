@@ -449,3 +449,11 @@ BaseMoney = 30
 Name = Digital video designer F
 Gender = Female
 BaseMoney = 30
+#-------------------------------
+[LEADER_Corallo]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+
